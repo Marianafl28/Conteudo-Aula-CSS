@@ -1,0 +1,41 @@
+body{
+    background-color: tomato;
+
+}
+
+.ex1{
+    border: 6px solid white;
+}
+
+.ex2{
+    border: 6px solid white;
+    border-width: medium;
+}
+
+.ex3{
+    border: 6px dotted olive;
+}
+
+
+.ex4{
+    border: dotted olive;
+    border-width: thick;
+}
+
+.ex5{
+    border: solid;
+    border-width: 20px 10px;
+    border-color: blue orange pink red;
+}
+
+.ex6{
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom-style:double ;
+    border-left-style: none ;
+}
+
+.ex7{
+    border: 6px solid #f8a;
+    border-radius: 20px;
+}
