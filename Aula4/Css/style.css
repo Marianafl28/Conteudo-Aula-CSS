@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+}
+
+.bx-paper-plane{
+    font-size: 150px;
+    color: rgb(10, 194, 255);
+}
+
+.bx-tiktok{
+    font-size: 150px;
+    color: pink;
+}
+
+.bx-lyft{
+    font-size: 150px;
+    color:blueviolet;
+}
+
+.bx-uber{
+    font-size: 150px;
+    color:rgb(0, 0, 0); 
+}
+
+.bx-bun{
+    font-size: 150px;
+    color:rgb(226, 226, 119);
+}
+
+.bx-buy-me-a-coffee{
+    font-size: 150px;
+    color:yellow;
+}

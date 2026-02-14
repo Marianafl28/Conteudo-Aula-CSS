@@ -1,0 +1,8 @@
+body{
+    background-color: plum;
+}
+
+.ex1 li{
+    list-style-image: url('/Aula4/img/cup-hot.png');
+    list-style-type: disc;
+}
