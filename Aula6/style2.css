@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+
+.ex1{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    background-color: rgb(174, 255, 127);
+}
+
+.ex1 div{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    align-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+@media (max-width: 600px){
+    .ex1{
+        align-items: center;
+        flex-direction: column;
+    }
+}
